@@ -30,4 +30,4 @@ The experiment outcomes on Cityscapes dataset
 
 
 You can download this repository into your environment by simply running
-git clone 
+git clone https://github.com/serdarch/SERNet-Former.git
