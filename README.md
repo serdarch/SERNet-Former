@@ -29,6 +29,42 @@
 
 ## Experiment Results
 
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">...</th>
+<th valign="bottom">...</th>
+<th valign="bottom">...</th>
+<th valign="bottom">...</th>
+<th valign="bottom">...</th>
+<th valign="bottom">...</th>
+<th valign="bottom">...</th>
+<th valign="bottom">...</th>
+<!-- TABLE BODY -->
+<!-- ROW: 1 -->
+<tr>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+</tr>
+<!-- ROW: 2 -->
+<tr>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+</tr>
+</tbody></table>
+
 The experiment outcomes on CamVid dataset
 
 ![camvid_output](https://github.com/serdarch/SERNet-Former/assets/61043858/f11f44a6-b245-43f1-b323-2f107f0b330e)
