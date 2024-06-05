@@ -28,4 +28,6 @@ The experiment outcomes on Cityscapes dataset
 ![cityscapes_output](https://github.com/serdarch/SERNet-Former/assets/61043858/9a613193-6761-422c-bb7c-d2a3499548c5)
 
 
-The configuration code of the network for CamVid and Cityscapes datasets will be available soon...
+
+You can download this repository into your environment by simply running
+git clone 
