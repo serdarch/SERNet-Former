@@ -37,6 +37,7 @@ The breakdown of class accuracies on CamVid dataset
 <table><tbody>
 <!-- TABLE HEADER -->
 <th valign="bottom">Model</th>
+<th valign="bottom">Baseline Architecture</th>  
 <th valign="bottom">Building</th>
 <th valign="bottom">Tree</th>
 <th valign="bottom">Sky</th>
@@ -53,6 +54,7 @@ The breakdown of class accuracies on CamVid dataset
 <!-- ROW: 1 -->
 <tr>
 <td align="center">SERNet-Former</td>
+<td align="center">Efficient-ResNet</td>
 <td align="center">93.0</td>
 <td align="center">88.8</td>
 <td align="center">95.1</td>
