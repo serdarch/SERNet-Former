@@ -29,20 +29,29 @@
 
 ## Experiment Results
 
-<table><tbody>
-<!-- START TABLE -->
+The breakdown of class accuracies on CamVid dataset
 <!-- TABLE HEADER -->
-<th valign="bottom">...</th>
-<th valign="bottom">...</th>
-<th valign="bottom">...</th>
-<th valign="bottom">...</th>
-<th valign="bottom">...</th>
-<th valign="bottom">...</th>
-<th valign="bottom">...</th>
-<th valign="bottom">...</th>
+<th valign="bottom">Model</th>
+<th valign="bottom">Building</th>
+<th valign="bottom">Tree</th>
+<th valign="bottom">Sky</th>
+<th valign="bottom">Car</th>
+<th valign="bottom">Sign</th>
+<th valign="bottom">Road</th>
+<th valign="bottom">Pedestrian</th>
+<th valign="bottom">Fence</th>
+<th valign="bottom">Pole</th>
+<th valign="bottom">Sidewalk</th>
+<th valign="bottom">Bicycle</th>
+<th valign="bottom">mIoU</th>
 <!-- TABLE BODY -->
 <!-- ROW: 1 -->
 <tr>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
 <td align="center">...</td>
 <td align="center">...</td>
 <td align="center">...</td>
@@ -58,12 +67,17 @@
 <td align="center">...</td>
 <td align="center">...</td>
 <td align="center">...</td>
+<td align="center">...</td><td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
 <td align="center">...</td>
 <td align="center">...</td>
 <td align="center">...</td>
 <td align="center">...</td>
 </tr>
 </tbody></table>
+
 
 The experiment outcomes on CamVid dataset
 
