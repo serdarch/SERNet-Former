@@ -30,6 +30,8 @@
 ## Experiment Results
 
 The breakdown of class accuracies on CamVid dataset
+
+<table><tbody>
 <!-- TABLE HEADER -->
 <th valign="bottom">Model</th>
 <th valign="bottom">Building</th>
@@ -47,35 +49,19 @@ The breakdown of class accuracies on CamVid dataset
 <!-- TABLE BODY -->
 <!-- ROW: 1 -->
 <tr>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-</tr>
-<!-- ROW: 2 -->
-<tr>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
-<td align="center">...</td>
+<td align="center">SERNet-Former</td>
+<td align="center">93.0</td>
+<td align="center">88.8</td>
+<td align="center">95.1</td>
+<td align="center">91.9</td>
+<td align="center">73.9</td>
+<td align="center">97.7</td>
+<td align="center">76.4</td>
+<td align="center">83.4</td>
+<td align="center">57.3</td>
+<td align="center">90.3</td>
+<td align="center">83.1</td>
+<td align="center">84.62</td>
 </tr>
 </tbody></table>
 
