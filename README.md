@@ -67,7 +67,8 @@ The breakdown of class accuracies on CamVid dataset
 <td align="center">...</td>
 <td align="center">...</td>
 <td align="center">...</td>
-<td align="center">...</td><td align="center">...</td>
+<td align="center">...</td>
+<td align="center">...</td>
 <td align="center">...</td>
 <td align="center">...</td>
 <td align="center">...</td>
