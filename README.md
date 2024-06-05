@@ -7,9 +7,9 @@
 [CVPR 2024 Workshops] SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks
 
 ## News
-`16 May 2024`   The article "SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks" is now accepted to CVPR 2024 Workshops. Equivariant Vision: From Theory to Practice
-`January 2024`   SERNet-Former set state-of-the-art result on Cityscapes validation dataset: 87.35 % mIoU
-`January 2024`   SERNet-Former set state-of-the-art result on CamVid dataset: 84.62 % mIoU
+- `16 May 2024`   The article "SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks" is now accepted to CVPR 2024 Workshops. Equivariant Vision: From Theory to Practice
+- `January 2024`   SERNet-Former set state-of-the-art result on Cityscapes validation dataset: 87.35 % mIoU
+- `January 2024`   SERNet-Former set state-of-the-art result on CamVid dataset: 84.62 % mIoU
 
 
 ## Hall of Fame
