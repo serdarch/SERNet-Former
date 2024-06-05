@@ -77,6 +77,59 @@ The experiment outcomes on CamVid dataset
 
 ### Cityscapes
 
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">Model</th>
+<th valign="bottom">Baseline Architecture</th>
+<th valign="bottom">road</th>
+<th valign="bottom">sidewalk</th>
+<th valign="bottom">building</th>
+<th valign="bottom">wall</th>
+<th valign="bottom">fence</th>
+<th valign="bottom">pole</th>
+<th valign="bottom">traffic light</th>
+<th valign="bottom">traffic sign</th>
+<th valign="bottom">vegetation</th>
+<th valign="bottom">terrain</th>
+<th valign="bottom">sky</th>
+<th valign="bottom">person</th>
+<th valign="bottom">rider</th>
+<th valign="bottom">car</th>
+<th valign="bottom">truck</th>
+<th valign="bottom">bus</th>
+<th valign="bottom">train</th>
+<th valign="bottom">motorcycle</th>
+<th valign="bottom">bicycle</th>
+<th valign="bottom">mIoU</th>
+<!-- TABLE BODY -->
+<!-- ROW: 1 -->
+<tr>
+<td align="center">SERNet-Former</td>
+<td align="center">Efficient-ResNet</td>
+<td align="center">98.2</td>
+<td align="center">90.2</td>
+<td align="center">94.0</td>
+<td align="center">67.6</td>
+<td align="center">68.2</td>
+<td align="center">73.6</td>
+<td align="center">78.2</td>
+<td align="center">82.1</td>
+<td align="center">94.6</td>
+<td align="center">75.9</td>
+<td align="center">96.9</td>
+<td align="center">90.0</td>
+<td align="center">77.7</td>
+<td align="center">96.9</td>
+<td align="center">86.1</td>
+<td align="center">93.9</td>
+<td align="center">91.7</td>
+<td align="center">70.0</td>
+<td align="center">82.9</td>
+<td align="center">84.83</td>
+</tr>
+</tbody></table>
+
 The experiment outcomes on Cityscapes dataset
 
 ![cityscapes_output](https://github.com/serdarch/SERNet-Former/assets/61043858/9a613193-6761-422c-bb7c-d2a3499548c5)
