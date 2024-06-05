@@ -29,7 +29,7 @@
 
 ## Experiment Results
 
-#Camvid dataset 
+### CamVid Dataset 
 
 The breakdown of class accuracies on CamVid dataset
 
@@ -71,6 +71,8 @@ The breakdown of class accuracies on CamVid dataset
 The experiment outcomes on CamVid dataset
 
 ![camvid_output](https://github.com/serdarch/SERNet-Former/assets/61043858/f11f44a6-b245-43f1-b323-2f107f0b330e)
+
+### Cityscapes
 
 The experiment outcomes on Cityscapes dataset
 
