@@ -1,4 +1,4 @@
-# SERNet-Former
+9# SERNet-Former
 
 [[CVPR 2024 Workshops] YouTube Video](https://youtu.be/XXzMkotcdb4?feature=shared)
 
@@ -134,6 +134,11 @@ The experiment outcomes on Cityscapes dataset
 
 ![cityscapes_output](https://github.com/serdarch/SERNet-Former/assets/61043858/9a613193-6761-422c-bb7c-d2a3499548c5)
 
+## Try Alternatives
+
+You may would like to try checkpoints of similar architectures
+
+[HR-Net W48 on Citiscapes Checkpoint. 82.27 % mIoU](https://huggingface.co/spaces/serdarerisen/SERNet-Former/blob/main/cityscapes_trainval.pth)
 
 ## Installation Support
 
@@ -141,8 +146,3 @@ You can simply download this repository into your environment by running
 ```bash
 git clone https://github.com/serdarch/SERNet-Former.git
 
-## Try Alternatives
-
-You may would like to try checkpoints of similar architectures
-
-[HR-Net W48 on Citiscapes Checkpoint. 82.27 % mIoU](https://huggingface.co/spaces/serdarerisen/SERNet-Former/blob/main/cityscapes_trainval.pth)
