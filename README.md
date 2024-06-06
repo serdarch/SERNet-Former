@@ -138,7 +138,7 @@ The experiment outcomes on Cityscapes dataset
 
 You may would like to try checkpoints of similar architectures
 
-[HR-Net W48 on Cityscapes Checkpoint. 82.27 % mIoU](https://huggingface.co/spaces/serdarerisen/SERNet-Former/blob/main/cityscapes_trainval.pth)
+[HR-Net W48 Checkpoint on Cityscapes. 82.27 % mIoU](https://huggingface.co/spaces/serdarerisen/SERNet-Former/blob/main/cityscapes_trainval.pth)
 
 ## Installation Support
 
