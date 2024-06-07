@@ -28,7 +28,7 @@
 
 ## SERNet-Former Conceptual 
 
-[![Efficient-ResNet](https://img.shields.io/badge/github-EfficientResNet-grey)](https://github.com/serdarch/Efficient-ResNet)
+[![Efficient-ResNet](https://img.shields.io/badge/github-EfficientResNet-black)](https://github.com/serdarch/Efficient-ResNet)
 
 ![Figure1](https://github.com/serdarch/SERNet-Former/assets/61043858/084416d7-f982-4f46-b1bf-871aed81557b)
 
