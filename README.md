@@ -2,7 +2,7 @@
 <div align="center">
 
 [![[CVPR 2024 Workshops] YouTube Video](https://img.shields.io/badge/CVPRW'24-YouTube-red)](https://youtu.be/XXzMkotcdb4?feature=shared) |
-[![ArXiv paper](https://img.shields.io/badge/SERNet-Former-ArXiv-red)](https://doi.org/10.48550/arXiv.2401.15741)
+[![ArXiv paper](https://img.shields.io/badge/SERNet-Former-ArXiv-black)](https://doi.org/10.48550/arXiv.2401.15741)
 
 </div>
 
