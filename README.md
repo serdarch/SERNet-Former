@@ -151,4 +151,22 @@ You may would like to try checkpoints of similar architectures
 You can simply download this repository into your environment by running
 ```bash
 git clone https://github.com/serdarch/SERNet-Former.git
+```
 
+## Citations
+
+```bibtex
+@article{Erisen2024SERNetFormer,
+  title={SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks},
+  author={Erişen, Serdar},
+  journal={arXiv preprint arXiv:2401.15741},
+  year={2024}
+}
+
+@inproceedings{Erisen2024CVPRW,
+  title={SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks},
+  author={Erişen, Serdar},
+  booktitle={CVPRW},
+  year={2024},
+}
+```
