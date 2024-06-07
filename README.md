@@ -1,4 +1,4 @@
-9# SERNet-Former
+# SERNet-Former
 
 [[CVPR 2024 Workshops] YouTube Video](https://youtu.be/XXzMkotcdb4?feature=shared)
 
