@@ -48,5 +48,8 @@ The models are the open-source checkpoints pretrained on ImageNet dataset
   <tr><td align="left">ResNeXt101_64X4D</td>
 <td align="center"><a href="https://download.pytorch.org/models/resnext101_64x4d-173b62eb.pth">model</a></td>
 </tr>
- 
+<!-- ROW: 11 -->
+  <tr><td align="left">CNN-D3</td>
+<td align="center"><a href="https://github.com/serdarch/CNN-D3/blob/main/model/CNN_D3.mat">model</a></td>
+</tr>
 </tbody></table>
