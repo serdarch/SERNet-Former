@@ -12,6 +12,15 @@ The original dataset is divided into 367 training, 101 validation, and 233 test 
 ## Please cite
 
 ```bibtex
+@article{Brostow2019,
+  title={Semantic object classes in video: A high-definition ground truth database},
+  author={G. J. Brostow and J. Fauqueur and R. Cipolla},
+  journal={Pattern Recognition Letters},
+  volume=90
+  pages=119-133
+  year={2019}
+}
+
 @article{Erisen2024SERNetFormer,
   title={SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks},
   author={Erişen, Serdar},
