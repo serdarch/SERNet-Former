@@ -1,3 +1,5 @@
+# Cityscapes dataset
+
 Cityscapes is one of the most challenging datasets for the semantic segmentation of urban street scenes. 
 
 It contains high-quality pixel-level annotations for 5000 images, as well as coarsely annotated 20000 images. 
@@ -12,3 +14,4 @@ The dataset includes semantic, instance-wise, and dense pixel annotations of 30 
 
 However, most literature uses annotations with 20 classes, 19 of which are semantic labels containing objects and stuff, 
 in addition to one additional void class for do-not-care regions.
+
