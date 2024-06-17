@@ -49,10 +49,10 @@ The models are the open-source checkpoints pretrained on ImageNet dataset
   <tr><td align="left">ResNeXt101_64X4D</td>
 <td align="center"><a href="https://download.pytorch.org/models/resnext101_64x4d-173b62eb.pth">model</a></td>
 </tr>
+</tbody></table>
 
 ## Segmentation Networks
 The models are the open-source segmentation baseline checkpoints pretrained on COCO dataset 
-
 <table><tbody>
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
