@@ -1,3 +1,14 @@
-The code runs with MATLAB.
-
-Versions for different languages are being developed.
+pytorch
+torchvision
+matplotlib
+numpy
+packaging
+prettytable
+scipy
+codecov
+flake8
+ftfy
+interrogate
+pytest
+regex
+yapf
