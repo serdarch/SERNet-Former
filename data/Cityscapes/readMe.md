@@ -15,3 +15,21 @@ The dataset includes semantic, instance-wise, and dense pixel annotations of 30 
 However, most literature uses annotations with 20 classes, 19 of which are semantic labels containing objects and stuff, 
 in addition to one additional void class for do-not-care regions.
 
+
+## Please cite
+
+```bibtex
+@inproceedings{Cordts2016CVPR,
+  title={The cityscapes dataset for semantic urban scene understanding},
+  author={M. Cordts and M. Omran and S. Ramos and T. Rehfeld and M. Enzweiler and R. Benenson and U. Franke and S. Roth, and B. Schiele},
+  booktitle={CVPR},
+  year={2016},
+}
+
+@article{Erisen2024SERNetFormer,
+  title={SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks},
+  author={Erişen, Serdar},
+  journal={arXiv preprint arXiv:2401.15741},
+  year={2024}
+}
+```
