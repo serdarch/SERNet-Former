@@ -9,3 +9,13 @@ generated through 32 classes and merged into 11 classes later.
 
 The original dataset is divided into 367 training, 101 validation, and 233 test images, as most literature practiced. 
 
+## Citations
+
+```bibtex
+@article{Erisen2024SERNetFormer,
+  title={SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks},
+  author={Erişen, Serdar},
+  journal={arXiv preprint arXiv:2401.15741},
+  year={2024}
+}
+```
