@@ -1,6 +1,6 @@
 model:
-name: deeplabv3_resnet-101      # Pretrained model name
-num_classes: 11       		        # Number of classes for Cityscapes
+name: deeplabv3_resnet-101      # Change into your model
+num_classes: 11       		    
  
 training:
 batch_size: 3
