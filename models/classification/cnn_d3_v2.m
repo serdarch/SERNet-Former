@@ -1,0 +1,23 @@
+CNN_D3_layers = [
+    imageInputLayer([1 6 1], "Name", "imageinput")
+    convolution2dLayer([1 1], 4, "Name", "conv", "Padding", "same")
+    batchNormalizationLayer("Name", "batchnorm")
+    reluLayer("Name", "relu")
+    globalMaxPooling2dLayer("Name", "gmpool")
+    convolution2dLayer([1 1], 8, "Name", "conv_1", "Padding", "same")
+    convolution2dLayer([1 1], 8, "Name", "conv_2", "Padding", "same")
+    batchNormalizationLayer("Name", "batchnorm_1")
+    reluLayer("Name", "relu_1")
+    globalMaxPooling2dLayer("Name", "gmpool_1")
+    convolution2dLayer([1 1], 16, "Name", "conv_3", "Padding", "same")
+    convolution2dLayer([1 1], 16, "Name", "conv_4", "Padding", "same")
+    batchNormalizationLayer("Name", "batchnorm_2")
+    convolution2dLayer([1 1], 32, "Name", "conv_5", "Padding", "same")
+    convolution2dLayer([1 1], 32, "Name", "conv_6", "Padding", "same")
+    batchNormalizationLayer("Name", "batchnorm_3")
+    reluLayer("Name", "relu_2")
+    fullyConnectedLayer(4, "Name", "fc")
+    softmaxLayer("Name", "softmax")
+    classificationLayer("Name", "classoutput")
+];
+
