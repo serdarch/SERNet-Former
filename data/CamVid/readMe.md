@@ -27,6 +27,54 @@ The original dataset is divided into 367 training, 101 validation, and 233 test 
 </tr>
 </tbody></table>
 
+## Ablation works
+
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">AbM</th>
+<th valign="bottom">DbN</th>
+<th valign="bottom">AfN1</th>
+<th valign="bottom">AfN2</th>
+<th valign="bottom">mIoU %</th>
+<!-- TABLE BODY -->
+<!-- ROW: 1 -->
+<tr><td align="left">N</td>
+<td align="left">Y</td>
+<td align="left">Y</td>
+<td align="left">Y</td>
+<td align="left">81.22</td>
+</tr>
+<!-- ROW: 2 -->
+<tr><td align="left">Y</td>
+<td align="left">N</td>
+<td align="left">Y</td>
+<td align="left">Y</td>
+<td align="left">80.56</td>
+</tr>
+<!-- ROW: 3 -->
+<tr><td align="left">Y</td>
+<td align="left">Y</td>
+<td align="left">N</td>
+<td align="left">Y</td>
+<td align="left">78.99</td>
+</tr>
+<!-- ROW: 4 -->
+<tr><td align="left">Y</td>
+<td align="left">Y</td>
+<td align="left">Y</td>
+<td align="left">N</td>
+<td align="left">75.37</td>
+</tr>
+<!-- ROW: 5 -->
+<tr><td align="left">Y</td>
+<td align="left">Y</td>
+<td align="left">Y</td>
+<td align="left">Y</td>
+<td align="left">82.88</td>
+</tr>
+</tbody></table>
+
 
 ## Please cite
 
