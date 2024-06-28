@@ -46,7 +46,11 @@ in addition to one additional void class for do-not-care regions.
 <td align="left">InternImage-L</td>
   <td align="center"><a href="https://huggingface.co/OpenGVLab/InternImage/resolve/main/upernet_internimage_l_512x1024_160k_cityscapes.pth">84.41</a></td>
 </tr>  
-  
+ <!-- ROW: 6 -->
+<tr><td align="left">UperNet + InternImage (with additional data)</td>
+<td align="left">InternImage-XL</td>
+  <td align="center"><a href="https://huggingface.co/OpenGVLab/InternImage/resolve/main/upernet_internimage_xl_512x1024_160k_mapillary2cityscapes.pth">86.42</a></td>
+</tr>   
 </tbody></table>
 
 ## Please cite
