@@ -41,11 +41,6 @@ in addition to one additional void class for do-not-care regions.
 <td align="left">Efficient-ResNet [final]</td>
 <td align="center">84.83</td>
 </tr>
-<!-- ROW: 4 -->
-<tr><td align="left">SERNet-Former</td>
-<td align="left">Efficient-ResNet [final]</td>
-<td align="center">84.83</td>
-</tr>  
  <!-- ROW: 5 -->
 <tr><td align="left">UperNet + InternImage</td>
 <td align="left">InternImage-L</td>
