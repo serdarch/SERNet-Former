@@ -14,7 +14,34 @@ The dataset includes semantic, instance-wise, and dense pixel annotations of 30 
 
 However, most literature uses annotations with 20 classes, 19 of which are semantic labels containing objects and stuff, 
 in addition to one additional void class for do-not-care regions.
-
+# Models
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">Model / Method</th>
+<th valign="bottom">Baseline</th>
+<th valign="bottom">mIoU</th>
+<!-- TABLE BODY -->
+<!-- ROW: 1 -->
+<tr><td align="left">HR-Net</td>
+<td align="left">HR-Net W48</td>
+<td align="center"><a href="https://huggingface.co/spaces/serdarerisen/SERNet-Former/blob/main/cityscapes_trainval.pth">82.27</a></td>
+</tr>
+<!-- ROW: 2 -->
+<tr><td align="left">SERNet-Former</td>
+<td align="left">ResNet-50</td>
+<td align="center">73.31</td>
+</tr>
+<!-- ROW: 3 -->
+<tr><td align="left">SERNet-Former</td>
+<td align="left">Efficient-ResNet_R101</td>
+<td align="center">77.04</td>
+<!-- ROW: 4 -->
+<tr><td align="left">SERNet-Former</td>
+<td align="left">Efficient-ResNet [final]</td>
+<td align="center">84.83</td>
+</tr>
+</tbody></table>
 
 ## Please cite
 
