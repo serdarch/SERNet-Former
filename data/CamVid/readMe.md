@@ -9,6 +9,23 @@ generated through 32 classes and merged into 11 classes later.
 
 The original dataset is divided into 367 training, 101 validation, and 233 test images, as most literature practiced. 
 
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">Model</th>
+<th valign="bottom">Metrics File</th>
+<!-- TABLE BODY -->
+<!-- ROW: 1 -->
+<tr><td align="left">SERNet-Former [checkpoint]</td>
+<td align="center"><a href="https://huggingface.co/spaces/serdarerisen/SERNet-Former/blob/main/CamVid_NetworkMetrics_Checkpoint.mat">download</a></td>
+</tr>
+<!-- ROW: 2 -->
+<tr><td align="left">SERNet-Former [final]</td>
+<td align="center"><a href="https://huggingface.co/spaces/serdarerisen/SERNet-Former/blob/main/CamVid_NetworkMetrics_Final.mat">download</a></td>
+</tr>
+</tbody></table>
+
+
 ## Please cite
 
 ```bibtex
