@@ -1,4 +1,4 @@
-# Cityscapes dataset
+⁰# Cityscapes dataset
 
 Cityscapes is one of the most challenging datasets for the semantic segmentation of urban street scenes. 
 
@@ -22,11 +22,6 @@ in addition to one additional void class for do-not-care regions.
 <th valign="bottom">Baseline</th>
 <th valign="bottom">mIoU</th>
 <!-- TABLE BODY -->
-<!-- ROW: 1 -->
-<tr><td align="left">HR-Net</td>
-<td align="left">HR-Net W48 + OCR</td>
-<td align="center"><a href="https://github.com/hsfzxjy/models.storage/releases/download/HRNet-OCR/hrnet_ocr_cs_trainval_8227_torch11.pth">82.27</a></td>
-</tr>
 <!-- ROW: 2 -->
 <tr><td align="left">SERNet-Former</td>
 <td align="left">ResNet-50</td>
@@ -41,16 +36,6 @@ in addition to one additional void class for do-not-care regions.
 <td align="left">Efficient-ResNet [final]</td>
 <td align="center">84.83</td>
 </tr>
- <!-- ROW: 5 -->
-<tr><td align="left">UperNet + InternImage</td>
-<td align="left">InternImage-L</td>
-  <td align="center"><a href="https://huggingface.co/OpenGVLab/InternImage/resolve/main/upernet_internimage_l_512x1024_160k_cityscapes.pth">84.41</a></td>
-</tr>  
- <!-- ROW: 6 -->
-<tr><td align="left">UperNet + InternImage (with additional data)</td>
-<td align="left">InternImage-XL</td>
-  <td align="center"><a href="https://huggingface.co/OpenGVLab/InternImage/resolve/main/upernet_internimage_xl_512x1024_160k_mapillary2cityscapes.pth">86.42</a></td>
-</tr>   
 </tbody></table>
 
 ## Please cite
