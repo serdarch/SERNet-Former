@@ -9,6 +9,8 @@ generated through 32 classes and merged into 11 classes later.
 
 The original dataset is divided into 367 training, 101 validation, and 233 test images, as most literature practiced. 
 
+## Model metrics
+
 <table><tbody>
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
