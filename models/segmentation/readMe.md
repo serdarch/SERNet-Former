@@ -1,6 +1,6 @@
 # Model Zoo
 
-The models are the open-source segmentation baseline checkpoints pretrained on COCO dataset 
+The models are the open-source segmentation baseline checkpoints 
 
 <table><tbody>
 <!-- START TABLE -->
