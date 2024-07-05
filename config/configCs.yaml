@@ -5,6 +5,6 @@ num_classes: 19       		# Number of classes for Cityscapes
 training:
 batch_size: 1
 num_epochs: 80
-learning_rate: 0.001
+learning_rate: 0.0005
 optimizer: sgd       		# Options: adam, sgd, etc.
 momentum: 0.9        		# Only for SGD optimizer
