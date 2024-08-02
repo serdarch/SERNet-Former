@@ -2,7 +2,7 @@
 <div align="center">
 
 [![[CVPR 2024 Workshops] YouTube Video](https://img.shields.io/badge/CVPRW'24-YouTube-blue)](https://youtu.be/XXzMkotcdb4?feature=shared)
-[![CVPR 2024 Workshop](https://img.shields.io/badge/CVPR'24-Workshop-yellow)](https://equivision.github.io/)
+[![CVPR 2024 Workshop](https://img.shields.io/badge/CVPR'24-Workshop-yellow)](https://equivision.github.io/index.html#papers)
 [![ArXiv paper](https://img.shields.io/badge/SERNetFormer-ArXiv-red)](https://doi.org/10.48550/arXiv.2401.15741)
 [![CVMI 2024](https://img.shields.io/badge/CVMI-2024-blue)](https://cvmi2024.iiita.ac.in/AcceptedPapers.php)
 
