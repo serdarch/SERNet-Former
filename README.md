@@ -16,8 +16,8 @@
 ## News
 - `30 July 2024`  [CVMI 2024] The article "SERNet-Former: Segmentation by Efficient-ResNet with Attention-Boosting Gates and Attention-Fusion Networks" is accepted to The 3rd IEEE International Conference on Computer Vision and Machine Intelligence (IEEE CVMI)
 - `16 May 2024`   [CVPR 2024 Workshops] The article "SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks" is now accepted to CVPR 2024 Workshops. Equivariant Vision: From Theory to Practice
-- `January 2024`   SERNet-Former sets state-of-the-art result on Cityscapes validation dataset for pixel-level segmentation: 87.35 % mIoU
-- `January 2024`   SERNet-Former sets state-of-the-art result on CamVid dataset: 84.62 % mIoU
+- `January 2024`   SERNet-Former set state-of-the-art result on Cityscapes validation dataset for pixel-level segmentation: 87.35 % mIoU
+- `January 2024`   SERNet-Former set state-of-the-art result on CamVid dataset: 84.62 % mIoU
 - `January 2024`   SERNet-Former ranked as the seventh on Cityscapes test dataset for pixel-level segmentation according to PapersWithCode.com: 84.83 % mIoU
 
 
