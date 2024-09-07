@@ -6,7 +6,7 @@
 [![ArXiv paper](https://img.shields.io/badge/SERNetFormer-ArXiv-red)](https://doi.org/10.48550/arXiv.2401.15741)
 [![CVMI 2024](https://img.shields.io/badge/CVMI-2024-blue)](https://cvmi2024.iiita.ac.in/AcceptedPapers.php)
 
-Please also enjoy the tutorial based on DeepLabV3+_ResNet101 baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1sMRRcUsFaUwHSvIch9Koqxb4ogtgfVFs#scrollTo=-Gei9D03SWmM&forceEdit=true&sandboxMode=true))
+Please also enjoy the tutorial based on DeepLabV3+_ResNet101 baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMRRcUsFaUwHSvIch9Koqxb4ogtgfVFs#scrollTo=-Gei9D03SWmM&forceEdit=true&sandboxMode=true)
 
 </div>
 
