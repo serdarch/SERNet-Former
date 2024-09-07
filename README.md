@@ -10,6 +10,7 @@ Please also enjoy the tutorial
 for Image Segmentation based on DeepLabV3+_ResNet101 baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMRRcUsFaUwHSvIch9Koqxb4ogtgfVFs#scrollTo=-Gei9D03SWmM&forceEdit=true&sandboxMode=true)
 
 
+
 for Image Classification based on ViT_h_14 baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/serdarch/SERNet-Former/blob/master/ImageClassification.ipynb](https://colab.research.google.com/drive/1Nj82jyovcQcuZotx-pRSBzd1uEXCbOp4#scrollTo=7kG9ZBiN238)
 
 </div>
