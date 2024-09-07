@@ -6,6 +6,8 @@
 [![ArXiv paper](https://img.shields.io/badge/SERNetFormer-ArXiv-red)](https://doi.org/10.48550/arXiv.2401.15741)
 [![CVMI 2024](https://img.shields.io/badge/CVMI-2024-blue)](https://cvmi2024.iiita.ac.in/AcceptedPapers.php)
 
+</div>
+
 Please also enjoy the tutorial 
 for Image Segmentation based on DeepLabV3+_ResNet101 baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMRRcUsFaUwHSvIch9Koqxb4ogtgfVFs#scrollTo=-Gei9D03SWmM&forceEdit=true&sandboxMode=true)
 
@@ -13,7 +15,7 @@ for Image Segmentation based on DeepLabV3+_ResNet101 baseline [![Open In Colab](
 
 for Image Classification based on ViT_h_14 baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nj82jyovcQcuZotx-pRSBzd1uEXCbOp4#scrollTo=7kG9ZBiN238)
 
-</div>
+
 
 [CVPR 2024 Workshops] SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks
 
