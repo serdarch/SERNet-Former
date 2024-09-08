@@ -13,7 +13,7 @@ for Image Segmentation based on DeepLabV3+_ResNet101 baseline [![Open In Colab](
 
 
 
-for Image Classification based on ViT_h_14 baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nj82jyovcQcuZotx-pRSBzd1uEXCbOp4#scrollTo=7kG9ZBiN238)
+& for Image Classification based on ViT_h_14 baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nj82jyovcQcuZotx-pRSBzd1uEXCbOp4#scrollTo=7kG9ZBiN238)
 
 
 
