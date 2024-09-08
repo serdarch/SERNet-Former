@@ -8,6 +8,12 @@
 
 </div>
 
+[CVPR 2024 Workshops] SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks
+
+
+[CVMI 2024] SERNet-Former: Segmentation by Efficient-ResNet with Attention-Boosting Gates and Attention-Fusion Networks
+
+
 Please also enjoy the tutorial 
 for Image Segmentation based on DeepLabV3+_ResNet101 baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMRRcUsFaUwHSvIch9Koqxb4ogtgfVFs#scrollTo=-Gei9D03SWmM&forceEdit=true&sandboxMode=true)
 
@@ -15,12 +21,6 @@ for Image Segmentation based on DeepLabV3+_ResNet101 baseline [![Open In Colab](
 
 & for Image Classification based on ViT_h_14 baseline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Nj82jyovcQcuZotx-pRSBzd1uEXCbOp4#scrollTo=7kG9ZBiN238)
 
-
-
-[CVPR 2024 Workshops] SERNet-Former: Semantic Segmentation by Efficient Residual Network with Attention-Boosting Gates and Attention-Fusion Networks
-
-
-[CVMI 2024] SERNet-Former: Segmentation by Efficient-ResNet with Attention-Boosting Gates and Attention-Fusion Networks
 
 ## News
 - `30 July 2024`  [CVMI 2024] The article "SERNet-Former: Segmentation by Efficient-ResNet with Attention-Boosting Gates and Attention-Fusion Networks" is accepted to The 3rd IEEE International Conference on Computer Vision and Machine Intelligence (IEEE CVMI)
