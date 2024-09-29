@@ -17,7 +17,7 @@
 Various implementations of SERNet-Former with different baselines for Multi-tasking is now online. 
 
 The example deploys ViT_h_14 baseline with 'Weights' 'IMAGENET1K_SWAG_E2E_V1' and simple U-Net decoder architecture.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/185TZK796f425vsduhpm9NcCrtMS4rIkb#scrollTo=q3e5V2NephbJ&forceEdit=true&sandboxMode=true])
 
 
 Please also see the tutorials for 
