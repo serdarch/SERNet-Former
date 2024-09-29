@@ -258,10 +258,6 @@ mizani==0.11.4
 mkl==2024.2.2
 ml-dtypes==0.4.1
 mlxtend==0.23.1
-mmcv==2.2.0
--e git+https://github.com/open-mmlab/mmdetection.git@cfd5d3a985b0249de009b67d04f37263e11cdf3d#egg=mmdet
-mmengine==0.10.5
--e git+https://github.com/open-mmlab/mmsegmentation.git@b040e147adfa027bbc071b624bedf0ae84dfc922#egg=mmsegmentation
 model-index==0.1.11
 more-itertools==10.5.0
 moviepy==1.0.3
