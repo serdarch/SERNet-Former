@@ -13,7 +13,7 @@
 
 [CVMI 2024] SERNet-Former: Segmentation by Efficient-ResNet with Attention-Boosting Gates and Attention-Fusion Networks
 
-
+## Tutorials
 Various implementations of SERNet-Former with different baselines for Multi-tasking is now online. 
 
 
