@@ -16,20 +16,17 @@
 ## Tutorials
 Various implementations of SERNet-Former with different baselines for Multi-tasking is now online. 
 
-
 The example deploys ViT_h_14 baseline with simple U-Net decoder architecture.
 
-
-Please enjoy your own combinations.
+Enjoy with your own combinations.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMRRcUsFaUwHSvIch9Koqxb4ogtgfVFs#scrollTo=-Gei9D03SWmM&forceEdit=true&sandboxMode=true)
 
 
 
-Please also enjoy the tutorial for 
+Please also see the tutorials for 
 
 Image Segmentation based on DeepLabV3+_ResNet101 baseline 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMRRcUsFaUwHSvIch9Koqxb4ogtgfVFs#scrollTo=-Gei9D03SWmM&forceEdit=true&sandboxMode=true)
-
 
 
 Image Classification based on ViT_h_14 baseline 
