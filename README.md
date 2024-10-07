@@ -192,7 +192,7 @@ The new experiment results on Cityscapes dataset are publicly available now.
 <td align="center">SERNet-Former_v2</td>
 <td align="center">L</td>
 <td align="center">NVIDIA L4</td>
-<td align="center">84.43</td>
+<td align="center"><a href="https://www.cityscapes-dataset.com/anonymous-results/?id=44b549bfc1e7bc433b3b32f18481f924208172f7d0bfed0c9274530430475034">84.43</a></td>
 </tr>
 </tbody></table>
 
