@@ -165,6 +165,37 @@ The experiment outcomes on Cityscapes dataset
 
 ![cityscapes_output](https://github.com/serdarch/SERNet-Former/assets/61043858/9a613193-6761-422c-bb7c-d2a3499548c5)
 
+### Cityscapes (SERNet-Former_v2)
+
+The new experiment results on Cityscapes dataset are publicly available now.
+
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">Model</th>
+<th valign="bottom">Type</th>
+<th valign="bottom">Hardware</th>
+<th valign="bottom">Result (mIoU)</th>
+
+<!-- TABLE BODY -->
+<!-- ROW: 1 -->
+<tr>
+<td align="center">SERNet-Former_v2</td>
+<td align="center">M</td>
+<td align="center">NVIDIA L4</td>
+<td align="center">82.60</td>
+</tr>
+
+<!-- TABLE BODY -->
+<!-- ROW: 2 -->
+<tr>
+<td align="center">SERNet-Former_v2</td>
+<td align="center">L</td>
+<td align="center">NVIDIA L4</td>
+<td align="center">84.43</td>
+</tr>
+</tbody></table>
+
 ## Installation Support
 
 You can simply download this repository into your environment by running
