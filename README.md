@@ -42,6 +42,8 @@ Image Classification based on ViT_h_14 baseline
 
 
 ## GitHub Badges
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sernet-former-semantic-segmentation-by/semantic-segmentation-on-ade20k-val)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k-val?p=sernet-former-semantic-segmentation-by)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sernet-former-semantic-segmentation-by/semantic-segmentation-on-bdd100k-val)](https://paperswithcode.com/sota/semantic-segmentation-on-bdd100k-val?p=sernet-former-semantic-segmentation-by)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sernet-former-semantic-segmentation-by/semantic-segmentation-on-camvid)](https://paperswithcode.com/sota/semantic-segmentation-on-camvid?p=sernet-former-semantic-segmentation-by)
