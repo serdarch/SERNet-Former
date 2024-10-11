@@ -31,6 +31,7 @@ Image Classification based on ViT_h_14 baseline
 
 
 ## News
+- `October 2024`   SERNet-Former_v2 set result on ADE20 validation dataset for pixel-level segmentation: 59.35 % mIoU
 - `October 2024`   SERNet-Former_v2 set state-of-the-art result on BDD100K validation dataset for pixel-level segmentation: 67.42 % mIoU
 - `07 October 2024` The new experiment results of SERNet-Former_v2 on Cityscapes test dataset are publicly available now.
 - `30 July 2024`  [CVMI 2024] The article "SERNet-Former: Segmentation by Efficient-ResNet with Attention-Boosting Gates and Attention-Fusion Networks" is accepted to The 3rd IEEE International Conference on Computer Vision and Machine Intelligence (IEEE CVMI)
@@ -168,6 +169,29 @@ The experiment outcomes on CamVid dataset
 The experiment outcomes on Cityscapes dataset
 
 ![cityscapes_output](https://github.com/serdarch/SERNet-Former/assets/61043858/9a613193-6761-422c-bb7c-d2a3499548c5)
+
+### ADE20K val (SERNet-Former_v2)
+
+The new experiment results on Cityscapes dataset are publicly available now.
+
+<table><tbody>
+<!-- START TABLE -->
+<!-- TABLE HEADER -->
+<th valign="bottom">Model</th>
+<th valign="bottom">Type</th>
+<th valign="bottom">Hardware</th>
+<th valign="bottom">Result (mIoU)</th>
+
+<!-- TABLE BODY -->
+<!-- ROW: 1 -->
+<tr>
+<td align="center">SERNet-Former_v2</td>
+<td align="center">L</td>
+<td align="center">NVIDIA L4</td>
+<td align="center"><a href="data/ADE20K/ADE20K_val.mlx">59.35</a></td>
+</tr>
+</tbody></table>
+
 
 ### BDD100K val (SERNet-Former_v2)
 
