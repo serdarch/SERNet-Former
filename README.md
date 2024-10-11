@@ -185,7 +185,7 @@ The new experiment results on Cityscapes dataset are publicly available now.
 <td align="center">SERNet-Former_v2</td>
 <td align="center">L</td>
 <td align="center">NVIDIA L4</td>
-<td align="center"><a href="[data/BDD100K/bdd100k_val.mlx](https://github.com/serdarch/SERNet-Former/blob/master/data/BDD100K/bdd100k_val.mlx)">67.42</a></td>
+<td align="center"><a href="[data/BDD100K/bdd100k_val.mlx](data/BDD100K/bdd100k_val.mlx)">67.42</a></td>
 </tr>
 </tbody></table>
 
