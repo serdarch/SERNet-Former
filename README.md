@@ -40,7 +40,7 @@ Image Classification based on ViT_h_14 baseline
 - `January 2024`   SERNet-Former ranked as the seventh on Cityscapes test dataset for pixel-level segmentation according to PapersWithCode.com: 84.83 % mIoU
 
 
-## Hall of Fame
+## GitHub Badges
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sernet-former-semantic-segmentation-by/semantic-segmentation-on-bdd100k-val)](https://paperswithcode.com/sota/semantic-segmentation-on-bdd100k-val?p=sernet-former-semantic-segmentation-by)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/sernet-former-semantic-segmentation-by/semantic-segmentation-on-camvid)](https://paperswithcode.com/sota/semantic-segmentation-on-camvid?p=sernet-former-semantic-segmentation-by)
