@@ -31,7 +31,7 @@ Image Classification based on ViT_h_14 baseline
 
 
 ## News
-- `October 2024`   SERNet-Former_v2 set result on ADE20 validation dataset for pixel-level segmentation: 59.35 % mIoU
+- `October 2024`   SERNet-Former_v2 set result on ADE20K validation dataset for pixel-level segmentation: 59.35 % mIoU
 - `October 2024`   SERNet-Former_v2 set state-of-the-art result on BDD100K validation dataset for pixel-level segmentation: 67.42 % mIoU
 - `07 October 2024` The new experiment results of SERNet-Former_v2 on Cityscapes test dataset are publicly available now.
 - `30 July 2024`  [CVMI 2024] The article "SERNet-Former: Segmentation by Efficient-ResNet with Attention-Boosting Gates and Attention-Fusion Networks" is accepted to The 3rd IEEE International Conference on Computer Vision and Machine Intelligence (IEEE CVMI)
